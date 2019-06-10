@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "503460351157",
+    "firebase_url": "https://itapp-c7493.firebaseio.com",
+    "project_id": "itapp-c7493",
+    "storage_bucket": "itapp-c7493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503460351157:android:0ddd588f4c1d322f",
+        "android_client_info": {
+          "package_name": "com.example.wifi22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503460351157-0kobbn34otu838sqtditd6j4vi69bsqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wifi22",
+            "certificate_hash": "c6a3980a75fd702886d900f40b48501d1dc03c61"
+          }
+        },
+        {
+          "client_id": "503460351157-egtsa3870tl7ubv8hr1bnh60oduurdpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDL5aEXO__fZx-WR9uuso8F1kH3u_q-m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503460351157-egtsa3870tl7ubv8hr1bnh60oduurdpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
